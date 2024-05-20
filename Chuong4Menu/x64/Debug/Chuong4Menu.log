@@ -1,0 +1,162 @@
+﻿  Menu.cpp
+D:\OPP-LTDT\HTDuyHoaThaoTruongchuong2\Chuong4Menu\Menu.h(10,5): error C2065: 'Menu': undeclared identifier
+  (compiling source file 'Menu.cpp')
+  
+D:\OPP-LTDT\HTDuyHoaThaoTruongchuong2\Chuong4Menu\Menu.h(10,10): error C2146: syntax error: missing ';' before identifier 'm1'
+  (compiling source file 'Menu.cpp')
+  
+D:\OPP-LTDT\HTDuyHoaThaoTruongchuong2\Chuong4Menu\Menu.h(10,10): error C3861: 'm1': identifier not found
+  (compiling source file 'Menu.cpp')
+  
+D:\OPP-LTDT\HTDuyHoaThaoTruongchuong2\Chuong4Menu\Menu.h(11,5): error C2065: 'm1': undeclared identifier
+  (compiling source file 'Menu.cpp')
+  
+D:\OPP-LTDT\HTDuyHoaThaoTruongchuong2\Chuong4Menu\Menu.h(12,5): error C2065: 'm1': undeclared identifier
+  (compiling source file 'Menu.cpp')
+  
+D:\OPP-LTDT\HTDuyHoaThaoTruongchuong2\Chuong4Menu\Menu.h(13,5): error C2065: 'm1': undeclared identifier
+  (compiling source file 'Menu.cpp')
+  
+D:\OPP-LTDT\HTDuyHoaThaoTruongchuong2\Chuong4Menu\Menu.h(17,5): error C2065: 'm1': undeclared identifier
+  (compiling source file 'Menu.cpp')
+  
+D:\OPP-LTDT\HTDuyHoaThaoTruongchuong2\Chuong4Menu\Menu.h(18,5): error C2065: 'm1': undeclared identifier
+  (compiling source file 'Menu.cpp')
+  
+D:\OPP-LTDT\HTDuyHoaThaoTruongchuong2\Chuong4Menu\Menu.h(20,5): error C2065: 'Menu': undeclared identifier
+  (compiling source file 'Menu.cpp')
+  
+D:\OPP-LTDT\HTDuyHoaThaoTruongchuong2\Chuong4Menu\Menu.h(20,10): error C2146: syntax error: missing ';' before identifier 'm2'
+  (compiling source file 'Menu.cpp')
+  
+D:\OPP-LTDT\HTDuyHoaThaoTruongchuong2\Chuong4Menu\Menu.h(20,10): error C3861: 'm2': identifier not found
+  (compiling source file 'Menu.cpp')
+  
+D:\OPP-LTDT\HTDuyHoaThaoTruongchuong2\Chuong4Menu\Menu.h(21,5): error C2065: 'm2': undeclared identifier
+  (compiling source file 'Menu.cpp')
+  
+D:\OPP-LTDT\HTDuyHoaThaoTruongchuong2\Chuong4Menu\Menu.h(22,5): error C2065: 'm2': undeclared identifier
+  (compiling source file 'Menu.cpp')
+  
+D:\OPP-LTDT\HTDuyHoaThaoTruongchuong2\Chuong4Menu\Menu.h(25,5): error C2065: 'm2': undeclared identifier
+  (compiling source file 'Menu.cpp')
+  
+D:\OPP-LTDT\HTDuyHoaThaoTruongchuong2\Chuong4Menu\Menu.h(26,5): error C2065: 'm2': undeclared identifier
+  (compiling source file 'Menu.cpp')
+  
+D:\OPP-LTDT\HTDuyHoaThaoTruongchuong2\Chuong4Menu\Menu.h(29,17): error C2065: 'm1': undeclared identifier
+  (compiling source file 'Menu.cpp')
+  
+D:\OPP-LTDT\HTDuyHoaThaoTruongchuong2\Chuong4Menu\Menu.h(32,17): error C2065: 'm2': undeclared identifier
+  (compiling source file 'Menu.cpp')
+  
+D:\OPP-LTDT\HTDuyHoaThaoTruongchuong2\Chuong4Menu\Menu.h(36,17): error C2065: 'm2': undeclared identifier
+  (compiling source file 'Menu.cpp')
+  
+D:\OPP-LTDT\HTDuyHoaThaoTruongchuong2\Chuong4Menu\Menu.h(45,5): error C2143: syntax error: missing ';' before '<'
+  (compiling source file 'Menu.cpp')
+  
+D:\OPP-LTDT\HTDuyHoaThaoTruongchuong2\Chuong4Menu\Menu.h(45,5): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'Menu.cpp')
+  
+D:\OPP-LTDT\HTDuyHoaThaoTruongchuong2\Chuong4Menu\Menu.h(45,5): error C2059: syntax error: '<'
+  (compiling source file 'Menu.cpp')
+  
+D:\OPP-LTDT\HTDuyHoaThaoTruongchuong2\Chuong4Menu\Menu.h(46,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Menu.cpp')
+  
+D:\OPP-LTDT\HTDuyHoaThaoTruongchuong2\Chuong4Menu\Menu.h(54,11): error C2143: syntax error: missing ';' before '<'
+  (compiling source file 'Menu.cpp')
+  
+D:\OPP-LTDT\HTDuyHoaThaoTruongchuong2\Chuong4Menu\Menu.h(54,11): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'Menu.cpp')
+  
+D:\OPP-LTDT\HTDuyHoaThaoTruongchuong2\Chuong4Menu\Menu.h(54,29): error C2238: unexpected token(s) preceding ';'
+  (compiling source file 'Menu.cpp')
+  
+D:\OPP-LTDT\HTDuyHoaThaoTruongchuong2\Chuong4Menu\Menu.cpp(12,5): error C2065: 'dsLuachon': undeclared identifier
+D:\OPP-LTDT\HTDuyHoaThaoTruongchuong2\Chuong4Menu\Menu.cpp(18,25): error C2065: 'dsLuachon': undeclared identifier
+D:\OPP-LTDT\HTDuyHoaThaoTruongchuong2\Chuong4Menu\Menu.cpp(19,30): error C2065: 'dsLuachon': undeclared identifier
+D:\OPP-LTDT\HTDuyHoaThaoTruongchuong2\Chuong4Menu\Menu.cpp(32,29): error C2065: 'dsLuachon': undeclared identifier
+D:\OPP-LTDT\HTDuyHoaThaoTruongchuong2\Chuong4Menu\Menu.cpp(34,30): error C2065: 'dsLuachon': undeclared identifier
+  MenuMain.cpp
+D:\OPP-LTDT\HTDuyHoaThaoTruongchuong2\Chuong4Menu\Menu.h(10,5): error C2065: 'Menu': undeclared identifier
+  (compiling source file 'MenuMain.cpp')
+  
+D:\OPP-LTDT\HTDuyHoaThaoTruongchuong2\Chuong4Menu\Menu.h(10,10): error C2146: syntax error: missing ';' before identifier 'm1'
+  (compiling source file 'MenuMain.cpp')
+  
+D:\OPP-LTDT\HTDuyHoaThaoTruongchuong2\Chuong4Menu\Menu.h(10,10): error C3861: 'm1': identifier not found
+  (compiling source file 'MenuMain.cpp')
+  
+D:\OPP-LTDT\HTDuyHoaThaoTruongchuong2\Chuong4Menu\Menu.h(11,5): error C2065: 'm1': undeclared identifier
+  (compiling source file 'MenuMain.cpp')
+  
+D:\OPP-LTDT\HTDuyHoaThaoTruongchuong2\Chuong4Menu\Menu.h(12,5): error C2065: 'm1': undeclared identifier
+  (compiling source file 'MenuMain.cpp')
+  
+D:\OPP-LTDT\HTDuyHoaThaoTruongchuong2\Chuong4Menu\Menu.h(13,5): error C2065: 'm1': undeclared identifier
+  (compiling source file 'MenuMain.cpp')
+  
+D:\OPP-LTDT\HTDuyHoaThaoTruongchuong2\Chuong4Menu\Menu.h(17,5): error C2065: 'm1': undeclared identifier
+  (compiling source file 'MenuMain.cpp')
+  
+D:\OPP-LTDT\HTDuyHoaThaoTruongchuong2\Chuong4Menu\Menu.h(18,5): error C2065: 'm1': undeclared identifier
+  (compiling source file 'MenuMain.cpp')
+  
+D:\OPP-LTDT\HTDuyHoaThaoTruongchuong2\Chuong4Menu\Menu.h(20,5): error C2065: 'Menu': undeclared identifier
+  (compiling source file 'MenuMain.cpp')
+  
+D:\OPP-LTDT\HTDuyHoaThaoTruongchuong2\Chuong4Menu\Menu.h(20,10): error C2146: syntax error: missing ';' before identifier 'm2'
+  (compiling source file 'MenuMain.cpp')
+  
+D:\OPP-LTDT\HTDuyHoaThaoTruongchuong2\Chuong4Menu\Menu.h(20,10): error C3861: 'm2': identifier not found
+  (compiling source file 'MenuMain.cpp')
+  
+D:\OPP-LTDT\HTDuyHoaThaoTruongchuong2\Chuong4Menu\Menu.h(21,5): error C2065: 'm2': undeclared identifier
+  (compiling source file 'MenuMain.cpp')
+  
+D:\OPP-LTDT\HTDuyHoaThaoTruongchuong2\Chuong4Menu\Menu.h(22,5): error C2065: 'm2': undeclared identifier
+  (compiling source file 'MenuMain.cpp')
+  
+D:\OPP-LTDT\HTDuyHoaThaoTruongchuong2\Chuong4Menu\Menu.h(25,5): error C2065: 'm2': undeclared identifier
+  (compiling source file 'MenuMain.cpp')
+  
+D:\OPP-LTDT\HTDuyHoaThaoTruongchuong2\Chuong4Menu\Menu.h(26,5): error C2065: 'm2': undeclared identifier
+  (compiling source file 'MenuMain.cpp')
+  
+D:\OPP-LTDT\HTDuyHoaThaoTruongchuong2\Chuong4Menu\Menu.h(29,17): error C2065: 'm1': undeclared identifier
+  (compiling source file 'MenuMain.cpp')
+  
+D:\OPP-LTDT\HTDuyHoaThaoTruongchuong2\Chuong4Menu\Menu.h(32,17): error C2065: 'm2': undeclared identifier
+  (compiling source file 'MenuMain.cpp')
+  
+D:\OPP-LTDT\HTDuyHoaThaoTruongchuong2\Chuong4Menu\Menu.h(36,17): error C2065: 'm2': undeclared identifier
+  (compiling source file 'MenuMain.cpp')
+  
+D:\OPP-LTDT\HTDuyHoaThaoTruongchuong2\Chuong4Menu\Menu.h(45,5): error C2143: syntax error: missing ';' before '<'
+  (compiling source file 'MenuMain.cpp')
+  
+D:\OPP-LTDT\HTDuyHoaThaoTruongchuong2\Chuong4Menu\Menu.h(45,5): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'MenuMain.cpp')
+  
+D:\OPP-LTDT\HTDuyHoaThaoTruongchuong2\Chuong4Menu\Menu.h(45,5): error C2059: syntax error: '<'
+  (compiling source file 'MenuMain.cpp')
+  
+D:\OPP-LTDT\HTDuyHoaThaoTruongchuong2\Chuong4Menu\Menu.h(46,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'MenuMain.cpp')
+  
+D:\OPP-LTDT\HTDuyHoaThaoTruongchuong2\Chuong4Menu\Menu.h(54,11): error C2143: syntax error: missing ';' before '<'
+  (compiling source file 'MenuMain.cpp')
+  
+D:\OPP-LTDT\HTDuyHoaThaoTruongchuong2\Chuong4Menu\Menu.h(54,11): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'MenuMain.cpp')
+  
+D:\OPP-LTDT\HTDuyHoaThaoTruongchuong2\Chuong4Menu\Menu.h(54,29): error C2238: unexpected token(s) preceding ';'
+  (compiling source file 'MenuMain.cpp')
+  
+D:\OPP-LTDT\HTDuyHoaThaoTruongchuong2\Chuong4Menu\MenuMain.cpp(6,5): error C2084: function 'int main(void)' already has a body
+  D:\OPP-LTDT\HTDuyHoaThaoTruongchuong2\Chuong4Menu\Menu.h(7,5):
+  see previous definition of 'main'
+  
+  Generating Code...
