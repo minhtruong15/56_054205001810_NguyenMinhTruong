@@ -1,0 +1,12 @@
+﻿  Main.cpp
+D:\OPP-LTDT\56_NguyenMinhTruong\QuanLyShowroomXe\Main.cpp(58,66): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\OPP-LTDT\56_NguyenMinhTruong\QuanLyShowroomXe\Main.cpp(64,72): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\OPP-LTDT\56_NguyenMinhTruong\QuanLyShowroomXe\Main.cpp(64,64): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\OPP-LTDT\56_NguyenMinhTruong\QuanLyShowroomXe\Main.cpp(87,52): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\OPP-LTDT\56_NguyenMinhTruong\QuanLyShowroomXe\Main.cpp(105,33): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  Oto.cpp
+  QuanLyShowroom.cpp
+  XeKhach.cpp
+  XeTai.cpp
+  Generating Code...
+  QuanLyShowroomXe.vcxproj -> D:\OPP-LTDT\56_NguyenMinhTruong\x64\Debug\QuanLyShowroomXe.exe

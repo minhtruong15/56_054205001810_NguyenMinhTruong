@@ -1,1 +1,4 @@
-﻿  QuanLyTienLuong.vcxproj -> D:\OPP-LTDT\56_NguyenMinhTruong\x64\Debug\QuanLyTienLuong.exe
+﻿  testMain.cpp
+D:\OPP-LTDT\56_NguyenMinhTruong\QuanLyTienLuong\testMain.cpp(46,86): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\OPP-LTDT\56_NguyenMinhTruong\QuanLyTienLuong\testMain.cpp(53,86): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  QuanLyTienLuong.vcxproj -> D:\OPP-LTDT\56_NguyenMinhTruong\x64\Debug\QuanLyTienLuong.exe

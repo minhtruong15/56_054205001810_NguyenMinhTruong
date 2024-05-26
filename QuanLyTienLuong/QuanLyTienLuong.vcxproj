@@ -129,7 +129,7 @@
   <ItemGroup>
     <ClCompile Include="Employee.cpp" />
     <ClCompile Include="FullTimeEmployee.cpp" />
-    <ClCompile Include="main.cpp" />
+    <ClCompile Include="testMain.cpp" />
     <ClCompile Include="PartTimeEmployee.cpp" />
   </ItemGroup>
   <ItemGroup>

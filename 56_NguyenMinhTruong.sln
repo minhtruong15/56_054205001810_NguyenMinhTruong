@@ -25,6 +25,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "chuong3QuanLySinhVien", "ch
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "QuanLyTienLuong", "QuanLyTienLuong\QuanLyTienLuong.vcxproj", "{CD895C1A-282A-44D1-8534-021C6AA33751}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "QuanLyShowroomXe", "QuanLyShowroomXe\QuanLyShowroomXe.vcxproj", "{4BE36B58-EEAA-4DEA-A044-50B627EB86C5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -121,6 +123,14 @@ Global
 		{CD895C1A-282A-44D1-8534-021C6AA33751}.Release|x64.Build.0 = Release|x64
 		{CD895C1A-282A-44D1-8534-021C6AA33751}.Release|x86.ActiveCfg = Release|Win32
 		{CD895C1A-282A-44D1-8534-021C6AA33751}.Release|x86.Build.0 = Release|Win32
+		{4BE36B58-EEAA-4DEA-A044-50B627EB86C5}.Debug|x64.ActiveCfg = Debug|x64
+		{4BE36B58-EEAA-4DEA-A044-50B627EB86C5}.Debug|x64.Build.0 = Debug|x64
+		{4BE36B58-EEAA-4DEA-A044-50B627EB86C5}.Debug|x86.ActiveCfg = Debug|Win32
+		{4BE36B58-EEAA-4DEA-A044-50B627EB86C5}.Debug|x86.Build.0 = Debug|Win32
+		{4BE36B58-EEAA-4DEA-A044-50B627EB86C5}.Release|x64.ActiveCfg = Release|x64
+		{4BE36B58-EEAA-4DEA-A044-50B627EB86C5}.Release|x64.Build.0 = Release|x64
+		{4BE36B58-EEAA-4DEA-A044-50B627EB86C5}.Release|x86.ActiveCfg = Release|Win32
+		{4BE36B58-EEAA-4DEA-A044-50B627EB86C5}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
