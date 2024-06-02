@@ -3,40 +3,40 @@
   "WorkspaceRootPath": "D:\\OPP-LTDT\\56_NguyenMinhTruong\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4BE36B58-EEAA-4DEA-A044-50B627EB86C5}|QuanLyShowroomXe\\QuanLyShowroomXe.vcxproj|D:\\OPP-LTDT\\56_NguyenMinhTruong\\QuanLyShowroomXe\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{4BE36B58-EEAA-4DEA-A044-50B627EB86C5}|QuanLyShowroomXe\\QuanLyShowroomXe.vcxproj|solutionrelative:QuanLyShowroomXe\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{EA4BAD68-F10E-44D3-B635-71713FF2E7C7}|QuanLyTruongDaiHoc\\QuanLyTruongDaiHoc.vcxproj|D:\\OPP-LTDT\\56_NguyenMinhTruong\\QuanLyTruongDaiHoc\\TestMain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EA4BAD68-F10E-44D3-B635-71713FF2E7C7}|QuanLyTruongDaiHoc\\QuanLyTruongDaiHoc.vcxproj|solutionrelative:QuanLyTruongDaiHoc\\TestMain.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4BE36B58-EEAA-4DEA-A044-50B627EB86C5}|QuanLyShowroomXe\\QuanLyShowroomXe.vcxproj|D:\\OPP-LTDT\\56_NguyenMinhTruong\\QuanLyShowroomXe\\Oto.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{4BE36B58-EEAA-4DEA-A044-50B627EB86C5}|QuanLyShowroomXe\\QuanLyShowroomXe.vcxproj|solutionrelative:QuanLyShowroomXe\\Oto.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{EA4BAD68-F10E-44D3-B635-71713FF2E7C7}|QuanLyTruongDaiHoc\\QuanLyTruongDaiHoc.vcxproj|D:\\OPP-LTDT\\56_NguyenMinhTruong\\QuanLyTruongDaiHoc\\PhongMayTinh.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EA4BAD68-F10E-44D3-B635-71713FF2E7C7}|QuanLyTruongDaiHoc\\QuanLyTruongDaiHoc.vcxproj|solutionrelative:QuanLyTruongDaiHoc\\PhongMayTinh.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4BE36B58-EEAA-4DEA-A044-50B627EB86C5}|QuanLyShowroomXe\\QuanLyShowroomXe.vcxproj|D:\\OPP-LTDT\\56_NguyenMinhTruong\\QuanLyShowroomXe\\XeTai.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{4BE36B58-EEAA-4DEA-A044-50B627EB86C5}|QuanLyShowroomXe\\QuanLyShowroomXe.vcxproj|solutionrelative:QuanLyShowroomXe\\XeTai.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{EA4BAD68-F10E-44D3-B635-71713FF2E7C7}|QuanLyTruongDaiHoc\\QuanLyTruongDaiHoc.vcxproj|D:\\OPP-LTDT\\56_NguyenMinhTruong\\QuanLyTruongDaiHoc\\PhongHoc.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EA4BAD68-F10E-44D3-B635-71713FF2E7C7}|QuanLyTruongDaiHoc\\QuanLyTruongDaiHoc.vcxproj|solutionrelative:QuanLyTruongDaiHoc\\PhongHoc.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4BE36B58-EEAA-4DEA-A044-50B627EB86C5}|QuanLyShowroomXe\\QuanLyShowroomXe.vcxproj|D:\\OPP-LTDT\\56_NguyenMinhTruong\\QuanLyShowroomXe\\XeKhach.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{4BE36B58-EEAA-4DEA-A044-50B627EB86C5}|QuanLyShowroomXe\\QuanLyShowroomXe.vcxproj|solutionrelative:QuanLyShowroomXe\\XeKhach.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{EA4BAD68-F10E-44D3-B635-71713FF2E7C7}|QuanLyTruongDaiHoc\\QuanLyTruongDaiHoc.vcxproj|D:\\OPP-LTDT\\56_NguyenMinhTruong\\QuanLyTruongDaiHoc\\PhongHoc.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EA4BAD68-F10E-44D3-B635-71713FF2E7C7}|QuanLyTruongDaiHoc\\QuanLyTruongDaiHoc.vcxproj|solutionrelative:QuanLyTruongDaiHoc\\PhongHoc.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4BE36B58-EEAA-4DEA-A044-50B627EB86C5}|QuanLyShowroomXe\\QuanLyShowroomXe.vcxproj|D:\\OPP-LTDT\\56_NguyenMinhTruong\\QuanLyShowroomXe\\QuanLyShowroom.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{4BE36B58-EEAA-4DEA-A044-50B627EB86C5}|QuanLyShowroomXe\\QuanLyShowroomXe.vcxproj|solutionrelative:QuanLyShowroomXe\\QuanLyShowroom.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{EA4BAD68-F10E-44D3-B635-71713FF2E7C7}|QuanLyTruongDaiHoc\\QuanLyTruongDaiHoc.vcxproj|D:\\OPP-LTDT\\56_NguyenMinhTruong\\QuanLyTruongDaiHoc\\PhongThiNghiem.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EA4BAD68-F10E-44D3-B635-71713FF2E7C7}|QuanLyTruongDaiHoc\\QuanLyTruongDaiHoc.vcxproj|solutionrelative:QuanLyTruongDaiHoc\\PhongThiNghiem.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4BE36B58-EEAA-4DEA-A044-50B627EB86C5}|QuanLyShowroomXe\\QuanLyShowroomXe.vcxproj|D:\\OPP-LTDT\\56_NguyenMinhTruong\\QuanLyShowroomXe\\QuanLyShowroom.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{4BE36B58-EEAA-4DEA-A044-50B627EB86C5}|QuanLyShowroomXe\\QuanLyShowroomXe.vcxproj|solutionrelative:QuanLyShowroomXe\\QuanLyShowroom.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{EA4BAD68-F10E-44D3-B635-71713FF2E7C7}|QuanLyTruongDaiHoc\\QuanLyTruongDaiHoc.vcxproj|D:\\OPP-LTDT\\56_NguyenMinhTruong\\QuanLyTruongDaiHoc\\PhongMayTinh.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EA4BAD68-F10E-44D3-B635-71713FF2E7C7}|QuanLyTruongDaiHoc\\QuanLyTruongDaiHoc.vcxproj|solutionrelative:QuanLyTruongDaiHoc\\PhongMayTinh.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4BE36B58-EEAA-4DEA-A044-50B627EB86C5}|QuanLyShowroomXe\\QuanLyShowroomXe.vcxproj|D:\\OPP-LTDT\\56_NguyenMinhTruong\\QuanLyShowroomXe\\Oto.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{4BE36B58-EEAA-4DEA-A044-50B627EB86C5}|QuanLyShowroomXe\\QuanLyShowroomXe.vcxproj|solutionrelative:QuanLyShowroomXe\\Oto.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{EA4BAD68-F10E-44D3-B635-71713FF2E7C7}|QuanLyTruongDaiHoc\\QuanLyTruongDaiHoc.vcxproj|D:\\OPP-LTDT\\56_NguyenMinhTruong\\QuanLyTruongDaiHoc\\PhongLyThuyet.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EA4BAD68-F10E-44D3-B635-71713FF2E7C7}|QuanLyTruongDaiHoc\\QuanLyTruongDaiHoc.vcxproj|solutionrelative:QuanLyTruongDaiHoc\\PhongLyThuyet.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4BE36B58-EEAA-4DEA-A044-50B627EB86C5}|QuanLyShowroomXe\\QuanLyShowroomXe.vcxproj|D:\\OPP-LTDT\\56_NguyenMinhTruong\\QuanLyShowroomXe\\XeTai.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{4BE36B58-EEAA-4DEA-A044-50B627EB86C5}|QuanLyShowroomXe\\QuanLyShowroomXe.vcxproj|solutionrelative:QuanLyShowroomXe\\XeTai.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{EA4BAD68-F10E-44D3-B635-71713FF2E7C7}|QuanLyTruongDaiHoc\\QuanLyTruongDaiHoc.vcxproj|D:\\OPP-LTDT\\56_NguyenMinhTruong\\QuanLyTruongDaiHoc\\PhongThiNghiem.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EA4BAD68-F10E-44D3-B635-71713FF2E7C7}|QuanLyTruongDaiHoc\\QuanLyTruongDaiHoc.vcxproj|solutionrelative:QuanLyTruongDaiHoc\\PhongThiNghiem.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4BE36B58-EEAA-4DEA-A044-50B627EB86C5}|QuanLyShowroomXe\\QuanLyShowroomXe.vcxproj|D:\\OPP-LTDT\\56_NguyenMinhTruong\\QuanLyShowroomXe\\XeKhach.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{4BE36B58-EEAA-4DEA-A044-50B627EB86C5}|QuanLyShowroomXe\\QuanLyShowroomXe.vcxproj|solutionrelative:QuanLyShowroomXe\\XeKhach.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{EA4BAD68-F10E-44D3-B635-71713FF2E7C7}|QuanLyTruongDaiHoc\\QuanLyTruongDaiHoc.vcxproj|D:\\OPP-LTDT\\56_NguyenMinhTruong\\QuanLyTruongDaiHoc\\PhongLyThuyet.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EA4BAD68-F10E-44D3-B635-71713FF2E7C7}|QuanLyTruongDaiHoc\\QuanLyTruongDaiHoc.vcxproj|solutionrelative:QuanLyTruongDaiHoc\\PhongLyThuyet.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,132 +46,132 @@
       "DocumentGroups": [
         {
           "DockedWidth": 1503,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 8,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "QuanLyShowroom.cpp",
-              "DocumentMoniker": "D:\\OPP-LTDT\\56_NguyenMinhTruong\\QuanLyShowroomXe\\QuanLyShowroom.cpp",
-              "RelativeDocumentMoniker": "QuanLyShowroomXe\\QuanLyShowroom.cpp",
-              "ToolTip": "D:\\OPP-LTDT\\56_NguyenMinhTruong\\QuanLyShowroomXe\\QuanLyShowroom.cpp",
-              "RelativeToolTip": "QuanLyShowroomXe\\QuanLyShowroom.cpp",
-              "ViewState": "AQIAACsAAAAAAAAAAAAqwIAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-05-26T12:29:58.633Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "QuanLyShowroom.h",
-              "DocumentMoniker": "D:\\OPP-LTDT\\56_NguyenMinhTruong\\QuanLyShowroomXe\\QuanLyShowroom.h",
-              "RelativeDocumentMoniker": "QuanLyShowroomXe\\QuanLyShowroom.h",
-              "ToolTip": "D:\\OPP-LTDT\\56_NguyenMinhTruong\\QuanLyShowroomXe\\QuanLyShowroom.h",
-              "RelativeToolTip": "QuanLyShowroomXe\\QuanLyShowroom.h",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAYwBoAAAAAAAAA",
+              "DocumentIndex": 3,
+              "Title": "PhongHoc.h",
+              "DocumentMoniker": "D:\\OPP-LTDT\\56_NguyenMinhTruong\\QuanLyTruongDaiHoc\\PhongHoc.h",
+              "RelativeDocumentMoniker": "QuanLyTruongDaiHoc\\PhongHoc.h",
+              "ToolTip": "D:\\OPP-LTDT\\56_NguyenMinhTruong\\QuanLyTruongDaiHoc\\PhongHoc.h",
+              "RelativeToolTip": "QuanLyTruongDaiHoc\\PhongHoc.h",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAABgAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-05-26T12:29:45.095Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "XeTai.cpp",
-              "DocumentMoniker": "D:\\OPP-LTDT\\56_NguyenMinhTruong\\QuanLyShowroomXe\\XeTai.cpp",
-              "RelativeDocumentMoniker": "QuanLyShowroomXe\\XeTai.cpp",
-              "ToolTip": "D:\\OPP-LTDT\\56_NguyenMinhTruong\\QuanLyShowroomXe\\XeTai.cpp",
-              "RelativeToolTip": "QuanLyShowroomXe\\XeTai.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACwAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-05-26T12:27:00.577Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "XeKhach.cpp",
-              "DocumentMoniker": "D:\\OPP-LTDT\\56_NguyenMinhTruong\\QuanLyShowroomXe\\XeKhach.cpp",
-              "RelativeDocumentMoniker": "QuanLyShowroomXe\\XeKhach.cpp",
-              "ToolTip": "D:\\OPP-LTDT\\56_NguyenMinhTruong\\QuanLyShowroomXe\\XeKhach.cpp",
-              "RelativeToolTip": "QuanLyShowroomXe\\XeKhach.cpp",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAYwDkAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-05-26T12:26:59.984Z",
+              "WhenOpened": "2024-05-31T08:37:52.734Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Oto.cpp",
-              "DocumentMoniker": "D:\\OPP-LTDT\\56_NguyenMinhTruong\\QuanLyShowroomXe\\Oto.cpp",
-              "RelativeDocumentMoniker": "QuanLyShowroomXe\\Oto.cpp",
-              "ToolTip": "D:\\OPP-LTDT\\56_NguyenMinhTruong\\QuanLyShowroomXe\\Oto.cpp",
-              "RelativeToolTip": "QuanLyShowroomXe\\Oto.cpp",
-              "ViewState": "AQIAACIAAAAAAAAAAAAYwEIAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-05-26T12:26:58.714Z",
+              "Title": "PhongMayTinh.h",
+              "DocumentMoniker": "D:\\OPP-LTDT\\56_NguyenMinhTruong\\QuanLyTruongDaiHoc\\PhongMayTinh.h",
+              "RelativeDocumentMoniker": "QuanLyTruongDaiHoc\\PhongMayTinh.h",
+              "ToolTip": "D:\\OPP-LTDT\\56_NguyenMinhTruong\\QuanLyTruongDaiHoc\\PhongMayTinh.h",
+              "RelativeToolTip": "QuanLyTruongDaiHoc\\PhongMayTinh.h",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAQAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-05-31T08:36:58.888Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "XeTai.h",
-              "DocumentMoniker": "D:\\OPP-LTDT\\56_NguyenMinhTruong\\QuanLyShowroomXe\\XeTai.h",
-              "RelativeDocumentMoniker": "QuanLyShowroomXe\\XeTai.h",
-              "ToolTip": "D:\\OPP-LTDT\\56_NguyenMinhTruong\\QuanLyShowroomXe\\XeTai.h",
-              "RelativeToolTip": "QuanLyShowroomXe\\XeTai.h",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAqwBYAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-05-26T12:26:38.441Z",
+              "Title": "PhongHoc.cpp",
+              "DocumentMoniker": "D:\\OPP-LTDT\\56_NguyenMinhTruong\\QuanLyTruongDaiHoc\\PhongHoc.cpp",
+              "RelativeDocumentMoniker": "QuanLyTruongDaiHoc\\PhongHoc.cpp",
+              "ToolTip": "D:\\OPP-LTDT\\56_NguyenMinhTruong\\QuanLyTruongDaiHoc\\PhongHoc.cpp",
+              "RelativeToolTip": "QuanLyTruongDaiHoc\\PhongHoc.cpp",
+              "ViewState": "AQIAABwAAAAAAAAAAAAUwDUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-31T09:24:41.797Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "XeKhach.h",
-              "DocumentMoniker": "D:\\OPP-LTDT\\56_NguyenMinhTruong\\QuanLyShowroomXe\\XeKhach.h",
-              "RelativeDocumentMoniker": "QuanLyShowroomXe\\XeKhach.h",
-              "ToolTip": "D:\\OPP-LTDT\\56_NguyenMinhTruong\\QuanLyShowroomXe\\XeKhach.h",
-              "RelativeToolTip": "QuanLyShowroomXe\\XeKhach.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "DocumentIndex": 8,
+              "Title": "PhongLyThuyet.h",
+              "DocumentMoniker": "D:\\OPP-LTDT\\56_NguyenMinhTruong\\QuanLyTruongDaiHoc\\PhongLyThuyet.h",
+              "RelativeDocumentMoniker": "QuanLyTruongDaiHoc\\PhongLyThuyet.h",
+              "ToolTip": "D:\\OPP-LTDT\\56_NguyenMinhTruong\\QuanLyTruongDaiHoc\\PhongLyThuyet.h",
+              "RelativeToolTip": "QuanLyTruongDaiHoc\\PhongLyThuyet.h",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABAAAAAGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-05-26T12:26:29.878Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-05-31T08:35:49.398Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "Oto.h",
-              "DocumentMoniker": "D:\\OPP-LTDT\\56_NguyenMinhTruong\\QuanLyShowroomXe\\Oto.h",
-              "RelativeDocumentMoniker": "QuanLyShowroomXe\\Oto.h",
-              "ToolTip": "D:\\OPP-LTDT\\56_NguyenMinhTruong\\QuanLyShowroomXe\\Oto.h",
-              "RelativeToolTip": "QuanLyShowroomXe\\Oto.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAKAAAA",
+              "Title": "PhongLyThuyet.cpp",
+              "DocumentMoniker": "D:\\OPP-LTDT\\56_NguyenMinhTruong\\QuanLyTruongDaiHoc\\PhongLyThuyet.cpp",
+              "RelativeDocumentMoniker": "QuanLyTruongDaiHoc\\PhongLyThuyet.cpp",
+              "ToolTip": "D:\\OPP-LTDT\\56_NguyenMinhTruong\\QuanLyTruongDaiHoc\\PhongLyThuyet.cpp",
+              "RelativeToolTip": "QuanLyTruongDaiHoc\\PhongLyThuyet.cpp",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-31T10:19:25.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PhongMayTinh.cpp",
+              "DocumentMoniker": "D:\\OPP-LTDT\\56_NguyenMinhTruong\\QuanLyTruongDaiHoc\\PhongMayTinh.cpp",
+              "RelativeDocumentMoniker": "QuanLyTruongDaiHoc\\PhongMayTinh.cpp",
+              "ToolTip": "D:\\OPP-LTDT\\56_NguyenMinhTruong\\QuanLyTruongDaiHoc\\PhongMayTinh.cpp",
+              "RelativeToolTip": "QuanLyTruongDaiHoc\\PhongMayTinh.cpp",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-31T10:19:25.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PhongThiNghiem.h",
+              "DocumentMoniker": "D:\\OPP-LTDT\\56_NguyenMinhTruong\\QuanLyTruongDaiHoc\\PhongThiNghiem.h",
+              "RelativeDocumentMoniker": "QuanLyTruongDaiHoc\\PhongThiNghiem.h",
+              "ToolTip": "D:\\OPP-LTDT\\56_NguyenMinhTruong\\QuanLyTruongDaiHoc\\PhongThiNghiem.h",
+              "RelativeToolTip": "QuanLyTruongDaiHoc\\PhongThiNghiem.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAACfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-05-26T12:26:21.059Z",
+              "WhenOpened": "2024-05-31T08:37:12.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PhongThiNghiem.cpp",
+              "DocumentMoniker": "D:\\OPP-LTDT\\56_NguyenMinhTruong\\QuanLyTruongDaiHoc\\PhongThiNghiem.cpp",
+              "RelativeDocumentMoniker": "QuanLyTruongDaiHoc\\PhongThiNghiem.cpp",
+              "ToolTip": "D:\\OPP-LTDT\\56_NguyenMinhTruong\\QuanLyTruongDaiHoc\\PhongThiNghiem.cpp",
+              "RelativeToolTip": "QuanLyTruongDaiHoc\\PhongThiNghiem.cpp",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-05-31T10:19:24.87Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Main.cpp",
-              "DocumentMoniker": "D:\\OPP-LTDT\\56_NguyenMinhTruong\\QuanLyShowroomXe\\Main.cpp",
-              "RelativeDocumentMoniker": "QuanLyShowroomXe\\Main.cpp",
-              "ToolTip": "D:\\OPP-LTDT\\56_NguyenMinhTruong\\QuanLyShowroomXe\\Main.cpp",
-              "RelativeToolTip": "QuanLyShowroomXe\\Main.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAHkAAAAAAAAA",
+              "Title": "TestMain.cpp",
+              "DocumentMoniker": "D:\\OPP-LTDT\\56_NguyenMinhTruong\\QuanLyTruongDaiHoc\\TestMain.cpp",
+              "RelativeDocumentMoniker": "QuanLyTruongDaiHoc\\TestMain.cpp",
+              "ToolTip": "D:\\OPP-LTDT\\56_NguyenMinhTruong\\QuanLyTruongDaiHoc\\TestMain.cpp",
+              "RelativeToolTip": "QuanLyTruongDaiHoc\\TestMain.cpp",
+              "ViewState": "AQIAAFkAAAAAAAAAAAD4v5gAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-05-26T12:25:29.787Z",
+              "WhenOpened": "2024-05-30T01:37:30.843Z",
               "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1503,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             }
           ]
         }
