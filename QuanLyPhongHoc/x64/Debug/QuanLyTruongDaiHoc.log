@@ -1,9 +1,0 @@
-﻿  PhongHoc.cpp
-  PhongLyThuyet.cpp
-  PhongMayTinh.cpp
-  PhongThiNghiem.cpp
-  TestMain.cpp
-D:\OPP-LTDT\56_NguyenMinhTruong\QuanLyTruongDaiHoc\TestMain.cpp(101,34): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
-  Generating Code...
-  LINK : D:\OPP-LTDT\56_NguyenMinhTruong\x64\Debug\QuanLyTruongDaiHoc.exe not found or not built by the last incremental link; performing full link
-  QuanLyTruongDaiHoc.vcxproj -> D:\OPP-LTDT\56_NguyenMinhTruong\x64\Debug\QuanLyTruongDaiHoc.exe
