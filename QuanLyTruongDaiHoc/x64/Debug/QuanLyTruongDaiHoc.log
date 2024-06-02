@@ -1,3 +1,0 @@
-﻿  TestMain.cpp
-D:\OPP-LTDT\56_NguyenMinhTruong\QuanLyTruongDaiHoc\TestMain.cpp(101,34): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
-  QuanLyTruongDaiHoc.vcxproj -> D:\OPP-LTDT\56_NguyenMinhTruong\x64\Debug\QuanLyTruongDaiHoc.exe
